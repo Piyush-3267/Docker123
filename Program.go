@@ -1,5 +1,6 @@
 package main
 
+//docker build -t my-go-app .
 import (
 	"encoding/json"
 	"github.com/gorilla/mux"
